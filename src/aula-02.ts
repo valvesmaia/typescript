@@ -1,3 +1,3 @@
-const x = 10;
+const x = 8;
 
-console.log("Resultado", x);
+console.log("Resultado:", x);
